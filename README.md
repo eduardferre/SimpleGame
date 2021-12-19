@@ -1,2 +1,3 @@
 # SimpleGame
-# SimpleGame
+
+By Eduard Ferré 🚀
